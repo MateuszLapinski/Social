@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce3c7ceb-d90e-4c7c-b1d0-b55ba4937f38" name="Changes" comment="Second version">
+      <change afterPath="$PROJECT_DIR$/Social" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAlert.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAlert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PortalEX/PortalExApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/PortalEX/PortalExApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PortalEX/posts/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/PortalEX/posts/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PortalEX/users/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/PortalEX/users/UserRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PyqeThdQAvErX0mLj1MyyFZN84" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mateu/Desktop/Serwis Społecznościowy/PortalEX&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Backend" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce3c7ceb-d90e-4c7c-b1d0-b55ba4937f38" name="Changes" comment="" />
+      <created>1684439764392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684439764392</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First version">
+      <created>1684771694113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684771694113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second version">
+      <created>1684872409046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684872409046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second version">
+      <created>1684872991042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684872991042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First version" />
+    <MESSAGE value="Second version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second version" />
+  </component>
+</project>
